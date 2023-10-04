@@ -3,19 +3,16 @@
 Welcome to the Solar System repository! This project is a simulation of the solar system, showcasing the planets and their orbits around the sun. It provides an interactive way to explore the celestial bodies within our solar system.
 
 ## Features
-
 - Realistic representation of the planets and their orbits.
 - Interactive controls to navigate and explore the solar system.
 - Information about each planet, including size, composition, and notable features.
 
 ## Dependencies
-
 This project has the following dependencies:
 
 - Three.js: A JavaScript library for creating and rendering 3D graphics in the browser. It is included in the repository, so no separate installation is required.
 
 ## Contributing
-
 Contributions to the Solar System project are welcome! If you would like to contribute, please follow these guidelines:
 
 1. Fork the repository and clone it to your local machine.
