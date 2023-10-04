@@ -9,6 +9,10 @@ public class mainmenu : MonoBehaviour
     {
         SceneManager.LoadSceneAsync("Solar_system");
     }
+    public void toQuitGame()
+    {
+        SceneManager.LoadSceneAsync("exit");
+    }
     public void QuitGame()
     {
         Application.Quit();
