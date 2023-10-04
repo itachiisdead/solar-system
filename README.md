@@ -25,7 +25,6 @@ Contributions to the Solar System project are welcome! If you would like to cont
 5. Submit a pull request describing your changes and the motivation behind them.
 
 ## License
-
 The Solar System project is licensed under the [MIT License](https://opensource.org/licenses/MIT). You are free to use, modify, and distribute the code for personal and commercial purposes. See the `LICENSE` file for more details.
 
 ## Acknowledgements
