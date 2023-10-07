@@ -14,24 +14,13 @@ This project has the following dependencies:
 
 - Three.js: A JavaScript library for creating and rendering 3D graphics in the browser. It is included in the repository, so no separate installation is required.
 
-## Contributing
-
-Contributions to the Solar System project are welcome! If you would like to contribute, please follow these guidelines:
-
-1. Fork the repository and clone it to your local machine.
-2. Create a new branch for your feature or bug fix.
-3. Make your changes and test thoroughly.
-4. Commit your changes and push them to your forked repository.
-5. Submit a pull request describing your changes and the motivation behind them.
-
 ## License
 
-The Solar System project is licensed under the [MIT License](https://opensource.org/licenses/MIT). You are free to use, modify, and distribute the code for personal and commercial purposes. See the `LICENSE` file for more details.
+The Solar System project is licensed under the MIT License. You are free to use, modify, and distribute the code for personal and commercial purposes. See the LICENSE file for more details.
 
 ## Acknowledgements
 
-- The Solar System simulation is based on scientific data and visualizations from reputable sources, including NASA and other space agencies.
-- This project utilizes the Three.js library, which provides the foundation for the 3D graphics rendering.
+The Solar System simulation is based on scientific data and visualizations from reputable sources, including NASA and other space agencies. This project utilizes the Three.js library, which provides the foundation for the 3D graphics rendering.
 
 ## Contact
 
